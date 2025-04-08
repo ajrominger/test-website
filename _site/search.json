@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome to my personal website, for more info check out:\n\nResearch\nPublications"
+    "text": "Luiselli, J., Overcast, I., Rominger, A., Ruffley, M., Morlon, H., & Rosindell, J. (2024). Detecting the ecological footprint of selection. PloS one, 19(6), e0302794."
   },
   {
     "objectID": "research.html",
@@ -35,10 +28,10 @@
     "text": "Project 2\nStuff about project 2"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Luiselli, J., Overcast, I., Rominger, A., Ruffley, M., Morlon, H., & Rosindell, J. (2024). Detecting the ecological footprint of selection. PloS one, 19(6), e0302794."
+    "text": "Welcome to my personal website, for more info check out:\n\nResearch\nPublications"
   }
 ]
