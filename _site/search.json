@@ -9,8 +9,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "test-website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my personal website, for more info check out:\n\nResearch\nPublications"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Stuff about project 1"
+  },
+  {
+    "objectID": "research.html#project-1",
+    "href": "research.html#project-1",
+    "title": "Research",
+    "section": "",
+    "text": "Stuff about project 1"
+  },
+  {
+    "objectID": "research.html#project-2",
+    "href": "research.html#project-2",
+    "title": "Research",
+    "section": "Project 2",
+    "text": "Project 2\nStuff about project 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Luiselli, J., Overcast, I., Rominger, A., Ruffley, M., Morlon, H., & Rosindell, J. (2024). Detecting the ecological footprint of selection. PloS one, 19(6), e0302794."
   }
 ]

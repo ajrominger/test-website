@@ -1,0 +1,5 @@
+---
+title: "Publications"
+---
+
+- [Luiselli, J., Overcast, I., Rominger, A., Ruffley, M., Morlon, H., & Rosindell, J. (2024). Detecting the ecological footprint of selection. PloS one, 19(6), e0302794.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302794)

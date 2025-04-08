@@ -1,11 +1,9 @@
 ---
-title: "test-website"
+title: "Home"
 ---
 
-This is a Quarto website.
+Welcome to my personal website, for more info check out:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Research
+- Publications
 
-```{r}
-1 + 1
-```
