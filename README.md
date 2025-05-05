@@ -1,2 +1,3 @@
-# test-website
-a test website
+# A repo for website testing
+
+Trying out quarto website templates
